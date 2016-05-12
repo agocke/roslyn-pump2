@@ -1,0 +1,3 @@
+[submodule "roslyn-pump"]
+	path = roslyn-pump
+	url = git@github.com:agocke/roslyn-pump.git
